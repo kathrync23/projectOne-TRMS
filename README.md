@@ -57,3 +57,16 @@ BenCo must provide approval for reimbursement. This approval is NOT skippable fo
 The employee must attach a grade or presentation for the reimbursemet. The BenCo must confirm the grade is passing. The Direct Supervisor must confirm that the presentation was satisfactory. Upon confirmation, the reimbursement is awarded to the employee.  
 * Only interested parties should access the grades/presentations
   * ie: the requestor and the approvers. 
+  
+## How to Run
+This will explain how to run the program.
+1. Set up the .env files using the examples. You can use whichever ports you would like. These are examples.
+2. Run the commands `cd .\projectOne\trms.clark` & `npm install`.
+ * This will install all the dependencies in the backend.
+3. Run the commands `cd ..\trms.clark-frontend` & `npm install`.
+ * This will install all the dependencies in the frontend.
+4. Now open two terminals, preferably side to side.
+5. In one terminal, change the directory to `trms.clark` and run `npm run setup`.
+ * This will create the database with some example users. 
+6. In the other terminal, change the directory to `trms.clark-frontend` and run `npm run start`.
+7. It should open a browser and you can play around with the program. 
