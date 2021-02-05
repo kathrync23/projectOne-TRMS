@@ -1,6 +1,14 @@
 # projectOne - TRMS (Tuition Reimbursement Management System)
 As I worked at Revature, this is my Project One which created a Tuition Reimbursement Management System. This is my project.  
 
+## Technologies Used
+* React - version 17.0.1
+* AWS-SDK - version 2.824.0
+* Redux - version 2.3.0
+* Express - verion 4.16.1
+* Jest - version 26.6.3
+* TypeScript - version 4.1.3
+
 ## Overview
 ### Purpose
 The TRMS provides reimbursements for uni courses, seminars, certification prep classes, certifications, and technical training. It needs to record and report on reimbursements awarded. 
