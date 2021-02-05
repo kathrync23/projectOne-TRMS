@@ -1,0 +1,339 @@
+[2021-01-13T21:44:39.483] [ERROR] default - addEvent: ResourceNotFoundException: Requested resource not found
+[2021-01-13T21:53:56.987] [ERROR] default - addEvent: ResourceNotFoundException: Requested resource not found
+[2021-01-13T21:59:43.136] [ERROR] default - addEvent: ResourceNotFoundException: Requested resource not found
+[2021-01-13T22:01:03.775] [ERROR] default - addEvent: ValidationException: One or more parameter values were invalid: Missing the key idName in the item
+[2021-01-14T22:29:13.757] [ERROR] default - null
+[2021-01-14T22:29:55.626] [ERROR] default - null
+[2021-01-14T22:35:15.773] [ERROR] default - null
+[2021-01-15T13:31:02.146] [ERROR] default - null
+[2021-01-15T13:32:37.996] [ERROR] default - null
+[2021-01-15T18:28:36.987] [ERROR] default - addClaim Err: ValidationException: ExpressionAttributeNames can only be specified when using expressions
+[2021-01-15T18:28:36.997] [ERROR] default - addClaim Err: ValidationException: ExpressionAttributeNames can only be specified when using expressions
+[2021-01-15T18:31:11.228] [ERROR] default - addClaim Err: ValidationException: ExpressionAttributeValues can only be specified when using expressions: ConditionExpression is null
+[2021-01-15T18:31:11.237] [ERROR] default - addClaim Err: ValidationException: ExpressionAttributeValues can only be specified when using expressions: ConditionExpression is null
+[2021-01-15T18:31:50.739] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-15T18:31:50.743] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-15T18:31:50.752] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-15T18:31:50.756] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-15T18:31:54.830] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T18:31:54.832] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T19:37:48.419] [ERROR] default - can't delete claims table
+[2021-01-15T19:38:06.828] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T19:38:06.831] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T19:40:25.353] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T19:40:25.358] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:24:50.795] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:24:50.800] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:28:11.816] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:28:11.821] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:38:36.270] [ERROR] default - addClaim Err: ValidationException: One or more parameter values were invalid: Missing the key Employee in the item
+[2021-01-15T20:38:36.281] [ERROR] default - addClaim Err: ValidationException: One or more parameter values were invalid: Missing the key Employee in the item
+[2021-01-15T20:42:42.193] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:42:42.196] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:43:52.428] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:43:52.430] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:47:05.280] [ERROR] default - addClaim Err: ValidationException: One or more parameter values were invalid: Missing the key EventName in the item
+[2021-01-15T20:47:05.286] [ERROR] default - addClaim Err: ValidationException: One or more parameter values were invalid: Missing the key EventName in the item
+[2021-01-15T20:48:08.685] [ERROR] default - can't create claims table
+[2021-01-15T20:48:39.525] [ERROR] default - can't delete claims table
+[2021-01-15T20:48:51.767] [ERROR] default - can't create claims table
+[2021-01-15T20:49:46.811] [ERROR] default - can't delete claims table
+[2021-01-15T20:49:59.065] [ERROR] default - can't create claims tableValidationException: One or more parameter values were invalid: Some index key attributes are not defined in AttributeDefinitions. Keys: [approver], AttributeDefinitions: [employee, eventName, approver]
+[2021-01-15T20:50:27.928] [ERROR] default - can't delete claims table
+[2021-01-15T20:50:52.334] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:50:52.340] [ERROR] default - addClaim Err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:54:41.998] [ERROR] default - addClaim err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T20:54:42.001] [ERROR] default - addClaim err: ResourceNotFoundException: Requested resource not found
+[2021-01-15T21:59:33.260] [ERROR] default - ValidationException: The provided key element does not match the schema
+    at Request.extractError (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-16T03:59:33.259Z,
+  requestId: '35RJBF5UDSF2HJAJKKK901NE47VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 22.829952697241605
+}
+[2021-01-15T22:02:03.692] [ERROR] default - undefined
+[2021-01-15T22:10:03.158] [ERROR] default - stuck hereundefined
+[2021-01-15T22:11:03.557] [ERROR] default - stuck here undefined
+[2021-01-15T22:15:09.321] [ERROR] default - stuck here undefined
+[2021-01-15T22:19:28.047] [ERROR] default - getClaim failed: undefined
+[2021-01-15T22:20:15.683] [ERROR] default - getClaim failed: undefined
+[2021-01-15T23:03:06.477] [ERROR] default - null
+[2021-01-16T12:42:21.775] [ERROR] default - null
+[2021-01-16T12:43:47.486] [ERROR] default - null
+[2021-01-16T12:43:52.702] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T12:50:02.845] [ERROR] default - null
+[2021-01-16T12:50:08.458] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T12:59:23.119] [ERROR] default - null
+[2021-01-16T12:59:30.666] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T13:00:18.351] [ERROR] default - null
+[2021-01-16T13:00:27.128] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T13:00:34.943] [ERROR] default - null
+[2021-01-16T13:00:38.224] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T13:01:37.557] [ERROR] default - null
+[2021-01-16T13:01:41.981] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T13:02:01.097] [ERROR] default - null
+[2021-01-16T13:02:06.390] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T13:02:32.925] [ERROR] default - null
+[2021-01-16T13:02:36.720] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T13:25:41.073] [ERROR] default - null
+[2021-01-16T13:33:37.282] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:22:41.556] [ERROR] default - null
+[2021-01-16T14:22:50.476] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:26:21.959] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:26:22.081] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:26:46.948] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:26:47.061] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:27:21.949] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:27:22.060] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:27:28.594] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:27:28.703] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:30:37.660] [ERROR] default - null
+[2021-01-16T14:30:37.823] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:30:37.942] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:30:42.466] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T14:30:42.580] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T15:35:15.252] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T15:35:15.364] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:30:38.351] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:30:38.458] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:30:38.603] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:30:38.718] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:48:27.016] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:48:27.133] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:48:34.978] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:48:35.090] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:48:35.199] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T16:48:35.309] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:09:08.742] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:09:08.855] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:09:17.193] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:09:17.317] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:09:17.447] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:09:17.633] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:09:25.140] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:09:25.260] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:11:22.028] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:11:22.151] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:34:26.988] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-16T17:34:26.989] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-16T17:34:26.994] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-16T17:34:26.995] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-16T17:46:38.295] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:51:11.630] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:52:53.426] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:55:10.572] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:55:10.741] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:56:41.272] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T17:56:41.409] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:25:21.052] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:25:21.219] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:25:27.247] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:25:27.403] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:27:18.808] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:27:18.974] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:30:07.751] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:30:07.761] [ERROR] default - claimRouter get promise err: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T18:30:07.885] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:30:07.906] [ERROR] default - static err:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T18:33:47.520] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:33:47.527] [ERROR] default - claimRouter get promise err: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T18:33:47.661] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T18:33:47.671] [ERROR] default - static err:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:03:22.711] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:03:22.746] [ERROR] default - static err:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:03:22.848] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:03:22.858] [ERROR] default - claimRouter get promise err: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:10:32.946] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:10:32.959] [ERROR] default - static err:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:10:33.091] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:10:33.096] [ERROR] default - claimRouter get promise err: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:17:12.446] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:17:12.465] [ERROR] default - static err:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:17:12.604] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:17:12.614] [ERROR] default - static err:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:31:49.978] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:31:49.980] [ERROR] default - claimRouter get promise err: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:31:50.116] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:31:50.168] [ERROR] default - static err:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:39:18.430] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:39:18.433] [ERROR] default - claimRouter get promise err: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-16T19:39:18.556] [ERROR] default - getClaimed fail: ValidationException: The provided key element does not match the schema
+[2021-01-16T19:39:18.558] [ERROR] default - claimRouter get promise err: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+[2021-01-17T00:56:01.782] [ERROR] default - null
+[2021-01-17T01:24:23.007] [ERROR] default - null
+[2021-01-17T01:24:28.879] [ERROR] default - null
+[2021-01-17T01:24:34.383] [ERROR] default - null
+[2021-01-17T13:10:59.670] [ERROR] default - null
+[2021-01-17T13:12:57.398] [ERROR] default - null
+[2021-01-17T13:13:22.922] [ERROR] default - null
+[2021-01-17T13:14:15.674] [ERROR] default - null
+[2021-01-17T13:33:21.325] [ERROR] default - null
+[2021-01-17T13:43:58.056] [ERROR] default - null
+[2021-01-17T13:53:11.814] [ERROR] default - ValidationException: The provided key element does not match the schema
+    at Request.extractError (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-17T19:53:11.812Z,
+  requestId: '25T0DP55EMTP6FTOHARU3H5L7RVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 38.84098384598739
+}
+[2021-01-17T13:53:17.621] [ERROR] default - ValidationException: The provided key element does not match the schema
+    at Request.extractError (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (D:\git\2012-dec14-react\projectOne\trms.clark\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-17T19:53:17.621Z,
+  requestId: 'N41EQAN94QDU46ULLSB5ETKISVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 46.01169038614471
+}
+[2021-01-18T15:02:01.214] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-18T15:02:01.221] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-18T15:02:01.227] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-18T15:02:01.239] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-18T15:15:59.236] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-18T15:18:35.695] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-18T15:18:36.651] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-18T15:18:36.777] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-18T15:18:36.953] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-18T15:18:37.100] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-18T15:18:37.296] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-18T22:42:54.333] [ERROR] default - addClaim err: ValidationException: One or more parameter values are not valid. The AttributeValue for a key attribute cannot contain an empty string value. Key: eventName
+[2021-01-18T22:52:11.597] [ERROR] default - addClaim err: ValidationException: One or more parameter values are not valid. A value specified for a secondary index key is not supported. The AttributeValue for a key attribute cannot contain an empty string value. IndexName: SupervisorIndex, IndexKey: approver
+[2021-01-19T01:48:59.217] [ERROR] default - null
+[2021-01-19T11:03:34.114] [ERROR] default - null
+[2021-01-19T11:09:32.183] [ERROR] default - null
+[2021-01-19T14:51:10.880] [ERROR] default - null
+[2021-01-19T14:51:45.575] [ERROR] default - null
+[2021-01-19T15:03:27.978] [ERROR] default - null
+[2021-01-19T15:29:02.280] [ERROR] default - null
+[2021-01-19T16:22:22.637] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: Syntax error; token: "#availableAmount", near: "#availableAmount="
+[2021-01-19T16:22:22.760] [ERROR] default - getClaim failed: undefined
+[2021-01-19T16:29:25.279] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute name used in the document path is not defined; attribute name: #claimReqs
+[2021-01-19T16:29:25.455] [ERROR] default - getClaim failed: undefined
+[2021-01-19T16:30:21.894] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute name used in the document path is not defined; attribute name: #claimReqs
+[2021-01-19T16:30:50.504] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute name used in the document path is not defined; attribute name: #claimReqs
+[2021-01-19T16:59:46.056] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-19T17:00:02.055] [ERROR] default - GetUserByName err: ValidationException: The provided key element does not match the schema
+[2021-01-19T17:03:07.997] [ERROR] default - null
+[2021-01-19T19:09:37.806] [ERROR] default - Update claim err: ValidationException: The provided key element does not match the schema
+[2021-01-19T19:12:21.757] [ERROR] default - Update claim err: ValidationException: The provided key element does not match the schema
+[2021-01-19T20:53:59.934] [ERROR] default - Update claim err: ValidationException: The provided key element does not match the schema
+[2021-01-19T21:14:34.243] [ERROR] default - Update claim err: ValidationException: The provided key element does not match the schema
+[2021-01-19T21:52:57.192] [ERROR] default - Update claim err: ValidationException: The provided key element does not match the schema
+[2021-01-19T22:06:11.686] [ERROR] default - null
+[2021-01-19T22:06:32.748] [ERROR] default - null
+[2021-01-19T22:06:45.502] [ERROR] default - null
+[2021-01-19T22:12:14.055] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-19T22:13:59.531] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-19T22:21:10.365] [ERROR] default - null
+[2021-01-19T22:22:46.079] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-19T22:36:57.665] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-19T23:33:19.365] [ERROR] default - addEvent: ConditionalCheckFailedException: The conditional request failed
+[2021-01-19T23:34:31.813] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-19T23:38:24.675] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-19T23:56:16.507] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:07:01.091] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:08:16.718] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:15:36.046] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:22:30.791] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:25:31.964] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:34:31.661] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:37:51.352] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:38:50.383] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:40:47.580] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T00:42:19.519] [ERROR] default - deleteClaim: ValidationException: The provided key element does not match the schema
+[2021-01-20T01:13:58.686] [ERROR] default - null
+[2021-01-20T01:24:33.344] [ERROR] default - null
+[2021-01-20T01:24:39.629] [ERROR] default - null
+[2021-01-20T01:27:08.254] [ERROR] default - null
+[2021-01-20T01:35:42.944] [ERROR] default - null
+[2021-01-20T01:37:17.217] [ERROR] default - null
+[2021-01-20T01:39:33.448] [ERROR] default - null
+[2021-01-20T01:56:16.804] [ERROR] default - null
+[2021-01-20T02:01:19.551] [ERROR] default - null
+[2021-01-20T02:01:53.638] [ERROR] default - null
+[2021-01-20T02:04:45.741] [ERROR] default - null
+[2021-01-20T02:04:53.765] [ERROR] default - null
+[2021-01-20T09:08:01.664] [ERROR] default - null
+[2021-01-20T09:13:48.924] [ERROR] default - null
+[2021-01-20T09:14:07.686] [ERROR] default - null
+[2021-01-20T09:14:27.732] [ERROR] default - null
+[2021-01-20T09:26:59.789] [ERROR] default - null
+[2021-01-20T09:27:14.832] [ERROR] default - null
+[2021-01-20T09:28:37.684] [ERROR] default - null
+[2021-01-20T09:31:33.044] [ERROR] default - null
+[2021-01-20T09:36:09.572] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T09:36:19.817] [ERROR] default - null
+[2021-01-20T09:36:26.016] [ERROR] default - null
+[2021-01-20T09:44:04.795] [ERROR] default - null
+[2021-01-20T09:44:14.076] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T09:45:25.109] [ERROR] default - null
+[2021-01-20T09:45:38.210] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T09:47:56.242] [ERROR] default - null
+[2021-01-20T10:03:29.325] [ERROR] default - null
+[2021-01-20T10:03:35.567] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T10:08:19.662] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T10:08:22.844] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T10:20:38.855] [ERROR] default - null
+[2021-01-20T10:22:26.569] [ERROR] default - null
+[2021-01-20T10:26:02.678] [ERROR] default - addEvent: ConditionalCheckFailedException: The conditional request failed
+[2021-01-20T10:26:06.467] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T10:26:13.453] [ERROR] default - null
+[2021-01-20T10:37:28.761] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T10:41:00.652] [ERROR] default - null
+[2021-01-20T10:44:08.485] [ERROR] default - null
+[2021-01-20T10:44:31.762] [ERROR] default - addEvent: ConditionalCheckFailedException: The conditional request failed
+[2021-01-20T10:45:33.650] [ERROR] default - addEvent: ConditionalCheckFailedException: The conditional request failed
+[2021-01-20T10:45:36.239] [ERROR] default - getEvents DB error: ResourceNotFoundException: Requested resource not found
+[2021-01-20T10:45:37.569] [ERROR] default - getEvents DB error: ResourceNotFoundException: Requested resource not found
+[2021-01-20T10:50:14.255] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-20T10:50:14.257] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-20T10:50:14.265] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-20T10:50:14.267] [ERROR] default - addUser: ResourceNotFoundException: Requested resource not found
+[2021-01-20T12:13:21.585] [ERROR] default - null
+[2021-01-20T12:13:34.528] [ERROR] default - null
+[2021-01-20T12:13:44.636] [ERROR] default - null
+[2021-01-20T12:21:38.561] [ERROR] default - null
+[2021-01-20T12:21:55.320] [ERROR] default - null
+[2021-01-20T12:23:24.260] [ERROR] default - null
+[2021-01-20T12:32:46.343] [ERROR] default - getEvents DB error: ResourceNotFoundException: Requested resource not found
+[2021-01-20T12:33:18.558] [ERROR] default - null
+[2021-01-20T12:33:39.647] [ERROR] default - null
+[2021-01-20T16:10:55.526] [ERROR] default - updateUser: ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :claimReqsToApprove
+[2021-01-20T16:11:29.400] [ERROR] default - getEvents DB error: ResourceNotFoundException: Requested resource not found
+[2021-01-20T16:11:34.519] [ERROR] default - null
+[2021-01-20T16:11:46.165] [ERROR] default - null
+[2021-01-20T16:13:07.066] [ERROR] default - null
+[2021-01-20T16:13:22.125] [ERROR] default - null
+[2021-01-20T16:13:35.872] [ERROR] default - null
+[2021-01-20T16:14:18.738] [ERROR] default - null
